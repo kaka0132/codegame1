@@ -58,7 +58,7 @@ void CBattle_GTournament::Initialize(BATTLE_INFO_BASE* pCreateInfo, CBattleTeam*
 {
 	CBattle::Initialize( pCreateInfo, pTeam1, pTeam2 );
 
-	m_Team1Pos.x = 2826;
+	m_Team1Pos.x = 28267;
 	m_Team1Pos.y = 0;
 	m_Team1Pos.z = 5833;
 	m_Team2Pos.x = 17374;
