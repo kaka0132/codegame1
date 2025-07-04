@@ -1,0 +1,22 @@
+*.sdf
+*.rar
+/Mx_client
+/Mx_server
+/Mx_code/Obj
+/Mx_code/.vs
+Mx_code/\[Client\]MH/MHClient.vcxproj.user
+Mx_code/.vs/Solution/v17/.suo
+Mx_code/\[Client\]MH/MHClient.vcxproj
+PackingTool.exe
+/Mx_code/\[Server\]Map/Debug Connect
+Solution.sln.lnk
+/Mx_code/ServerRelease
+/Mx_code/\[Server\]Map/Debug Connect-
+/Mx_code/enc_temp_folder
+Mx_code/Solution.v12.suo
+/DoubleRun
+/Mx_code/\[Server\]Distribute/Release_GMTOOL
+/Mx_code/\[Server\]Distribute/Release_GMTOOL-
+/IPCheck
+/DB
+/Mx_code/MsoPro
